@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LightCode (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LightCode (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
